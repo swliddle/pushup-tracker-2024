@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  PushupTrackerView.swift
 //  Pushup Tracker 2024
 //
 //  Created by Stephen Liddle on 9/18/24.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct PushupTrackerView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -20,5 +20,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    PushupTrackerView()
 }
