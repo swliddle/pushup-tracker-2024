@@ -1,5 +1,5 @@
 //
-//  Pushup_Tracker_2024App.swift
+//  PushupTrackerApp.swift
 //  Pushup Tracker 2024
 //
 //  Created by Stephen Liddle on 9/18/24.
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Pushup_Tracker_2024App: App {
+struct PushupTrackerApp: App {
     var body: some Scene {
         WindowGroup {
             PushupTrackerView(pushupViewModel: PushupViewModel())

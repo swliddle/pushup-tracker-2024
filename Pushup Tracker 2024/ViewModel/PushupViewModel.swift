@@ -23,7 +23,12 @@ import Foundation
         pushupData.grandTotal
     }
 
+    // NEEDSWORK: share the individual workouts
+
     // MARK: - User intents
 
-    
+    // NEEDSWORK: addWorkout(date, count)
+    //            deleteWorkout(id)
+    //            updateWorkout(id, date, count)
+
 }
