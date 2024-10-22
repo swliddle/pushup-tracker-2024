@@ -11,7 +11,7 @@ import SwiftUI
 struct PushupTrackerApp: App {
     var body: some Scene {
         WindowGroup {
-            PushupTrackerView(pushupViewModel: PushupViewModel())
+            PushupTrackerView()
         }
     }
 }

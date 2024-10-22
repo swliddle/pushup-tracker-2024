@@ -7,7 +7,7 @@
 
 import Foundation
 
-@Observable class PushupViewModel {
+@Observable class PushupViewModel: ObservableObject {
 
     // MARK: - Properties
 
